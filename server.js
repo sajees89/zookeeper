@@ -55,15 +55,6 @@ function filerByQuery(query, animalsArray) {
 
 
 
-
-
-
-
-
-
-
-
-
 app.get('/api/animals' , (req, res) => {
     let results = animals; 
     if (req.query) {
