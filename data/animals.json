@@ -408,6 +408,15 @@
         "hungry"
       ],
       "id": "44"
+    },
+    {
+      "name": "Larry ",
+      "species": "Lemur",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "45"
     }
   ]
 }
